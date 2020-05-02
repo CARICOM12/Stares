@@ -1,0 +1,5 @@
+/home/alex/Projects/Stares/Stares/bin/Debug/Stares.exe
+/home/alex/Projects/Stares/Stares/bin/Debug/Stares.pdb
+/home/alex/Projects/Stares/Stares/obj/x86/Debug/Stares.csprojAssemblyReference.cache
+/home/alex/Projects/Stares/Stares/obj/x86/Debug/Stares.exe
+/home/alex/Projects/Stares/Stares/obj/x86/Debug/Stares.pdb
